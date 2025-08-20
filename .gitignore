@@ -1,0 +1,7 @@
+__pycache__
+# Todo list, consist of things to be added in future
+Todo.txt
+# Virtual ENV created for this project 
+NotPython 
+# Testbench for testing and improving
+test.py
