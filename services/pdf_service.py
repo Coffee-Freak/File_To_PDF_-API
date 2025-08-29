@@ -55,3 +55,5 @@ def generate_pdf_from_images():
         'Status': '00' if file_count == file_read else '99',
         'pdf_bytes': pdf_string
     }
+
+
